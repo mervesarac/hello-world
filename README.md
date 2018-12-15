@@ -4,3 +4,4 @@ This is updated in local
 This the 3rd update done in local
 what will happen now no 3rd update branch
 bunu web de değiştirdim
+bunu da local de değiştirdim
