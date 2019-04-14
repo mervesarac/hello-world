@@ -6,3 +6,4 @@ what will happen now no 3rd update branch
 bunu web de değiştirdim
 bunu da local de değiştirdim
 Gitlab için ikinci değişiklik (15.4.2019)
+Bitbucket değişiklik (15.4.2019 19:20)
